@@ -1,0 +1,8 @@
+[project]
+name = "rio-colors"
+version = "1.0.0"
+description = "Interact with Rio brightness adjustments"
+requires-python = ">=3.10"
+dependencies = [
+    "rio-ui[window]>=0.10.9",
+]
